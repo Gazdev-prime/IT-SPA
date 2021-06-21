@@ -1,0 +1,37 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+
+#home, #rooms, #treatments, #cart {
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+#home {
+  font-size: 40px;
+  font-family: 'Kaushan Script', cursive;
+}
+
+#userAvatar, #roomCard {
+  cursor: pointer;
+}
+
+nav {
+  background: linear-gradient(#d4eaf8f1, white);
+}
+
+#header {
+  font-size: 90px;
+  font-family: 'Kaushan Script', cursive;
+  vertical-align: middle;
+}
+
+.row {
+  margin: 0px;
+}
